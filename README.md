@@ -1,4 +1,3 @@
-# Artificial_intelligence_applications
 ## Hệ Gợi Ý Căn Hộ, Biệt Thự Tại TP.Hồ Chí Minh
 #### Đồ án môn học: Trí tuệ nhân tạo ứng dụng 
 
@@ -42,8 +41,8 @@
 #### Hướng dẫn cài đặt và chạy dự án
 1. Clone repository:
 ```Bash
-git clone https://github.com/TranNhuKhaY512/Artificial_intelligence_applications.git
-cd Artificial_intelligence_applications
+git clone https://github.com/TranNhuKhaY512/SmartPropertyRecommender.git
+cd SmartPropertyRecommender
 ```
 2. Cài đặt các thư viện cần thiết:
 Yêu cầu hệ thống cài đặt sẵn Python 3.11. Chạy lệnh sau để cài đặt các thư viện phụ thuộc:
